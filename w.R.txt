@@ -41,5 +41,5 @@ identical(number,number1)
 suit = c(rep("¶Â®ç",13),rep("¬õ¤ß",13),rep("¤è¶ô",13),rep("±öªá",13))
 cards = paste(suit,number)
 sample(cards,5)
-
+paste(sample(1:6,1,sample(1:6,1),sample(1:6,1)))
 
